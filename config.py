@@ -33,7 +33,7 @@ SESSION_STRING = "BQAlz9hB87KVAkMWGyTVkicRi_gGB1veYjTtZbWNt8GaDpYrpo9M62zPQAGMLU
 SUPPORT_GROUP = ""
 UPDATES_CHANNEL = ""
 ASSISTANT_NAME = "Epic12484"
-SUDO_USERS = "959184369"
+SUDO_USERS = "959184369, 5585772897, 1319693201"
 REPLY_MESSAGE = "Hello Sir, I'm a bot to stream videos on telegram voice chat, not having time to chat with you 😂!"
 if not REPLY_MESSAGE:
     REPLY_MESSAGE = None
