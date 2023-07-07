@@ -26,15 +26,15 @@ admins = {}
 OLD_PMS = {}
 AUDIO_CALL = {}
 VIDEO_CALL = {}
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-SESSION_STRING = getenv("SESSION_STRING", "")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "AsmSupport")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "AsmSafone")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "MyVideoPlayer")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
-REPLY_MESSAGE = getenv("REPLY_MESSAGE", "")
+API_ID = "2929027"
+API_HASH = "2beecc3ee357e6e3f2b2e783d4159f9f"
+BOT_TOKEN = "1799299844:AAHXWUfImCIP3FRC6DDYB_41xCjAOkZHo-k"
+SESSION_STRING = "BQAlz9hB87KVAkMWGyTVkicRi_gGB1veYjTtZbWNt8GaDpYrpo9M62zPQAGMLUgUNJlF1lJq-PklbeQ1DW-AO55QOgCCslM2tAd5M5wc0CRZ-C-FDrQHsz00CHsxnstqpAbrUgeJfMd4hH_ABRUU6ekHLxtbCG3YhmGSl84_xGgdkEwhS23djoWmAaMfQ8fX93R8_U9dW4vTJIfzEMJ_q20R8saisK6XUaoyxOGZXm2rrKiHzs_pe2s4CQ-9yMCK1OCdhhprjOMPs-LvmvzTOFI8pBnLCScoQloUbyDUSuZEDfNW5YH3DMPuH9Xqin-632rulmJv-QLpjd7AOql6LW0MAAAAAUzwIWEA"
+SUPPORT_GROUP = ""
+UPDATES_CHANNEL = ""
+ASSISTANT_NAME = "Epic12484"
+SUDO_USERS = "959184369"
+REPLY_MESSAGE = "Hello Sir, I'm a bot to stream videos on telegram voice chat, not having time to chat with you 😂!"
 if not REPLY_MESSAGE:
     REPLY_MESSAGE = None
 else:
