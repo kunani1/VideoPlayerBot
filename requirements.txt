@@ -6,3 +6,5 @@ python-dotenv
 pyrogram==1.4.16
 tgcalls==3.0.0.dev6
 youtube_search_python==1.4.9
+pytgcalls==3.0.0
+
