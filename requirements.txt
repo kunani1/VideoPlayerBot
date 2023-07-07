@@ -4,9 +4,7 @@ youtube_dl
 ffmpeg-python
 python-dotenv
 pyrogram==1.4.16
+pytgcalls==3.0.0.dev21
 youtube_search_python==1.4.9
-pytgcalls==0.0.5
-tgcalls>=2.0.0,<3.0.0.dev6
-
 
 
